@@ -1,6 +1,6 @@
 // 
 //   Evaluator can evaluate the postfix expression
-//	 Vyacheslav Gerashenko (Slava)
+//	 Vyacheslav Gerashenko 
 
 import java.util.*;
 
