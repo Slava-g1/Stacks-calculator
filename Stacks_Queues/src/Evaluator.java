@@ -1,6 +1,7 @@
 // 
 //   Evaluator can evaluate the postfix expression
-//	 Vyacheslav Gerashenko 
+//	 Justin Boland
+// 	lousy calculator app demo
 
 import java.util.*;
 
